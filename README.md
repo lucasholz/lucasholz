@@ -21,14 +21,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Cypress.io](https://img.shields.io/badge/-Cypress.io-05122A?style=flat&logo=cypress)&nbsp;
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasholz&show_icons=true&theme=vision-friendly-dark" alt="lucasholz's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasholz&layout=compact&theme=vision-friendly-dark" alt="lucasholz's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasholz&show_icons=true&count_private=true&theme=github_dark" alt="lucasholz's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasholz&layout=compact&theme=github_dark" alt="lucasholz's most languages"/>
 </p>
 
 <br><br>
