@@ -2,11 +2,11 @@
 
 - 🔥 Quality Assurance Engineer.
 
-- 🔭 I’m currently working on Atlas Technologies.
+- 🔭 I’m currently working at Atlas Technologies as Quality Assurance Engineering Consultant.
 
-- 🌱 I’m currently learning software quality, automated software testing, and other technologies and languages like SQL, HTML, CSS, JavaScript...
+- 🌱 Since 2021 in the software quality area I have already been able to acquire a lot of experience, but I continue to seek knowledge and improve myself, taking courses and looking for new tools and frameworks...
 
-- 📫 How to reach me: matteholz@gmail.com or on my [Linked.In](https://www.linkedin.com/in/lucasholz/).
+- 📫 How to reach me: on my [Linked.In](https://www.linkedin.com/in/lucasholz/).
 
 - ⚡ Fun fact: I have a degree in civil engineering, but my passion for technology made me change my professional trajectory.
 
@@ -19,9 +19,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Cypress.io](https://img.shields.io/badge/-Cypress.io-05122A?style=flat&logo=cypress)&nbsp;
+![K6](https://img.shields.io/badge/-K6-05122A?style=flat&logo=k6)&nbsp;
 
 <br><br>
 
